@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8ac1548543fcf9e8c835b00224706c805486dfe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_4feb38bb57aca5cb8d9a327acf67078ed0ce7284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_c8744e3ad09fa702a90cb46498e072c45d64e6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_45024023cc8c01e250320f4b1210ed6162db6949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_c57db12625cf3e452a7e85e14e4ee8a2fd3cd6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_f94d07305ed3ecbd4203dd475724ce3bc7af02fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_3ebf06b9c9d26d384bb15f96812664f9a8d1b73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_2528f14d4448c67ee8a35298f84533d50cba1ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_54277cf68134a8c3ae7e25e405315ebbff5a9eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/MarqueeView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/bongmi/MarqueeView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_cf6cd1f18c4e5efffa4d56c496627e2806ef696c.jar" />
+    </item>
+
+</items>
